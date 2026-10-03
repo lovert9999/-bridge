@@ -72,7 +72,7 @@ footer p{
    标记依据：条文说明段落的 style 属性均带分号（text-align:justify;），
    正文条文为 text-align:justify（无分号），互不冲突 */
 p[style*="text-align:justify;"]{
-    font-size: 0.5em;
+    font-size: 0.7em;
 }
 
 
