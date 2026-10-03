@@ -75,5 +75,17 @@ p[style*="text-align:justify;"]{
     font-size: 0.7em;
 }
 
+/* 数据表格边框兜底（对应各章 HTML 内嵌的 #biaoge 样式块；
+   12 章等 RST 源缺内嵌块，重建后靠此规则保持边框） */
+#biaoge{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+#biaoge th, #biaoge td{
+    border: 1px solid black;
+    padding: 5px;
+    vertical-align: middle;
+}
+
 
 
