@@ -9,7 +9,7 @@
 
 开启 GitHub Pages 后访问：
 
-**https://lovert9999.github.io/-bridge/**
+**https://lovert9999.github.io/Standards-for-Condition-Evaluation-of-Highway-Bridges/**
 
 推荐从 [index.html](index.html) 首页进入，或直接打开任意章节页面。
 
