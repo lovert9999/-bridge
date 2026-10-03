@@ -1,6 +1,7 @@
-# ---- 仓库收录：根目录站点 + docs/ 源 + LICENSE ----
+# ---- 仓库仅收录 docs/ 站点 + LICENSE ----
+# 以下为本地构建脚本与中间产物，不纳入版本控制
 
-# 构建/编辑脚本与数据（本地，不入库）
+# 构建/编辑脚本与数据
 _*.py
 _*.json
 fixes_*.json
@@ -31,12 +32,8 @@ venv/
 .vscode/
 .idea/
 
-# Sphinx 构建输出目录（根目录的站点产物是手动复制并提交的，不忽略）
+# Sphinx 构建输出
 docs/build/
 docs/_build/
 _build/
-
-# Sphinx 构建临时文件
-.buildinfo
-.doctrees/
-_buildinfo
+build/
