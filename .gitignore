@@ -1,0 +1,37 @@
+# ---- 仓库仅收录 docs/ 站点 + LICENSE ----
+# 以下为本地构建脚本与中间产物，不纳入版本控制
+
+# 构建/编辑脚本与数据
+_*.py
+_*.json
+fixes_*.json
+fixes_*.txt
+official.txt
+official_ocr.*
+draft_index.json
+PROGRESS.md
+_AGENT_BRIEF.md
+校对台.html
+
+# 中间产物与大文件
+_ocrpages/
+_pdfpages/
+_crops/
+_shots/
+_backup_before_appx/
+docs_backup_报批稿原件/
+*.pdf
+*.zip
+
+# 工具与编辑器
+.workbuddy/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Sphinx 构建输出
+docs/_build/
+_build/
