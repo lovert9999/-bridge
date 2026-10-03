@@ -33,5 +33,7 @@ venv/
 .idea/
 
 # Sphinx 构建输出
+docs/build/
 docs/_build/
 _build/
+build/
