@@ -1,0 +1,173 @@
+15 构件影响状况评定
+========================================
+
+.. raw:: html
+
+  <h2 id="test111">15 构件影响状况评定</h2>
+
+15.1 一般规定
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id15.1.1"> 15.1.1</a> <span id="id15.1.1"> 桥梁主要构件存在下列情况时应开展影响状况评定：</span></p>
+
+ <ol>
+ <li> 缺损状况标度为 3。</li>
+ <li> 功能状况标度为 2。</li>
+ <li> 附着其他设施。</li>
+ <li> 桥下空间占用。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.1.2"> 15.1.2</a> <span id="id15.1.2"> 构件影响状况评定应根据缺损发展影响、缺损致灾可能、功能丧失致灾可能和发生灾害影响等按<a href="#B15.1.2">表15.1.2</a>执行。</span></p>
+
+  <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         vertical-align: middle;
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B15.1.2">表15.1.2 构件影响状况评定</b></caption>
+
+                  <tr>
+                  <td  align="center" width=150px rowspan="2">评定指标</td>
+                  <td  align="center" colspan="3">评定标度</td>
+                  <!-- <td></td> -->
+                  <!-- <td></td> -->
+                  </tr>
+                  <tr>
+                  <!-- <td></td> -->
+                  <td align="center" id="dhbg" width=120px >-1</td>
+                  <td align="center" id="dhbg" width=120px >0</td>
+        <td align="center" id="dhbg" width=490px >1</td>
+             </tr>
+        <tr>
+                  <td align="center" id="dhbg" >缺损发展影响</td>
+                  <td align="left" id="dhbg" >趋向稳定</td>
+                  <td align="left" id="dhbg" >缓慢</td>
+        <td align="left" id="dhbg" >加速</td>
+             </tr>
+        <tr>
+                  <td align="center" id="dhbg" >缺损致灾可能</td>
+                  <td align="center" id="dhbg" >—</td>
+                  <td align="center" id="dhbg" >—</td>
+        <td align="left" id="dhbg" >构件缺损可能导致桥梁整体或局部垮塌</td>
+             </tr>
+        <tr>
+                  <td align="center" id="dhbg" >功能丧失致灾可能</td>
+                  <td align="center" id="dhbg" >—</td>
+                  <td align="center" id="dhbg" >—</td>
+        <td align="left" id="dhbg" >构件功能丧失可能导致桥梁整体或局部垮塌</td>
+             </tr>
+        <tr>
+                  <td align="center" id="dhbg" >发生灾害影响</td>
+                  <td align="center" id="dhbg" >—</td>
+                  <td align="left" id="dhbg" >小</td>
+        <td align="left" id="dhbg" >发生灾害可能影响构件功能或结构安全</td>
+             </tr>
+                  </table>
+   <p style="text-indent:2em;" > </font></p>
+ <p style="text-align:justify"><a href="#id15.1.3"> 15.1.3</a> <span id="id15.1.3"> 评定构件缺损发展应结合近年检查成果或结构监测成果综合分析。发展趋向稳定的情形应经过可靠论证，明确缺损的诱发因素并确保长期稳定方可判定，并提出后期持续跟踪缺损发展变化的建议；缺损发展加速的情形应说明发展过程及可能带来的影响。</span></p>
+ <p style="text-align:justify"><a href="#id15.1.4"> 15.1.4</a> <span id="id15.1.4"> 缺损致灾可能和功能丧失致灾可能宜根据既有缺损和功能异常程度按本标准<a href="#id3">第15.2节</a>和<a href="#id4">第15.3节</a>评定。必要时可按本标准<a href="FLA.html">附录 A</a>开展专项检查论证缺损或功能异常对结构安全运行的影响。</span></p>
+ <p style="text-align:justify"><a href="#id15.1.5"> 15.1.5</a> <span id="id15.1.5"> 发生灾害影响宜根据附着其他设施、桥下空间占用情况分析其发生灾害可能影响构件功能发挥或桥梁结构安全的程度。</span></p>
+ <p style="text-align:justify"><a href="#id15.1.6"> 15.1.6</a> <span id="id15.1.6"> 本标准未列出的其他影响因素或构件，可按本标准<a href="03.html#id3.2.4">第3.2.4条</a>制定相应评定标度并说明制定依据。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>本标准列出常用桥梁构件的影响状况评定标度，其他特殊情况可能造成的影响或本标准中未列出的特殊构件，参照本标准<a href="03.html#id3.2.4">第3.2.4条</a>单独制定影响状况评定标度，并在评定报告中对制定依据予以说明。</p>
+ <p style="text-align:justify"><a href="#id15.1.7"> 15.1.7</a> <span id="id15.1.7"> 影响状况评定为－1和1的情形，应说明造成影响的程度和原因。</span></p>
+
+15.2 上部结构
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id15.2.1"> 15.2.1</a> <span id="id15.2.1"> 整体式梁桥影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 主梁的缺损、变形、位移及其影响。</li>
+ <li> 支座的缺损、位移及其影响。</li>
+ <li> 牛腿的缺损及其影响。</li>
+ <li> 独柱墩桥梁抗倾覆能力及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.2.2"> 15.2.2</a> <span id="id15.2.2"> 装配式梁桥影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 主梁的缺损、变形、位移及其影响。</li>
+ <li> 横向联系的缺损、变形及其影响。</li>
+ <li> 支座的缺损、位移及其影响。</li>
+ <li> 牛腿的缺损及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.2.3"> 15.2.3</a> <span id="id15.2.3"> 拱桥影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 主拱圈、腹拱圈的缺损、变形、拱脚位移及其影响。</li>
+ <li> 腹拱墩的缺损、倾斜及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.2.4"> 15.2.4</a> <span id="id15.2.4"> 组合体系拱桥影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 主拱圈的缺损、变形、拱脚位移及其影响。</li>
+ <li> 系杆的缺损、变形及其影响。</li>
+ <li> 横梁的缺损、变形及其影响。</li>
+ <li> 吊索的缺损、索力分配、冗余度及其影响。</li>
+ <li> 立柱的缺损、倾斜及其影响。</li>
+ <li> 桥面板的缺损、变形、位移及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.2.5"> 15.2.5</a> <span id="id15.2.5"> 悬索桥影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 加劲梁的缺损、变形、位移及其影响。</li>
+ <li> 吊索的缺损、索力分配及其影响。</li>
+ <li> 主缆的缺损及其影响。</li>
+ <li> 索塔及索鞍的缺损及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.2.6"> 15.2.6</a> <span id="id15.2.6"> 斜拉桥影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 主梁的缺损、变形、位移及其影响。</li>
+ <li> 斜拉索的缺损、索力分配及其影响。</li>
+ <li> 索塔的缺损及其影响。</li>
+ </ol> 
+ 
+15.3 下部结构
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id15.3.1"> 15.3.1</a> <span id="id15.3.1"> 桥墩影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 桥墩的缺损、倾斜及其影响。</li>
+ <li> 盖梁、墩帽的缺损及其影响。</li>
+ <li> 系梁的缺损及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.3.2"> 15.3.2</a> <span id="id15.3.2"> 桥台影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 桥台的缺损、倾斜、变位及其影响。</li>
+ <li> 盖梁、台帽的缺损及其影响。</li>
+ <li> 系梁的缺损及其影响。</li>
+ <li> 防护设施、台后填土状况及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.3.3"> 15.3.3</a> <span id="id15.3.3"> 扩大基础影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 基础的缺损及其影响。</li>
+ <li> 基础的冲刷、变位及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.3.4"> 15.3.4</a> <span id="id15.3.4"> 桩基础影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 基础的缺损及其影响。</li>
+ <li> 基础的冲刷及其影响。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id15.3.5"> 15.3.5</a> <span id="id15.3.5"> 沉井基础影响状况应评定下列内容：</span></p>
+ <ol>
+ <li> 基础的缺损及其影响。</li>
+ <li> 基础的冲刷及其影响。</li>
+ </ol>

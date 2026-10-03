@@ -1,0 +1,292 @@
+3 基本规定
+=============================
+
+.. raw:: html
+
+  <h2 id="test111">3 基本规定</h2>
+
+3.1 桥梁技术状况评定方法
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.1.1"> 3.1.1</a> <span id="id3.1.1"> 公路桥梁技术状况评定应采用分层综合法，按构件、桥跨、全桥的顺序依次评定。当主要构件出现严重缺损时，可采用单项控制指标法评定。</span></p>
+ <p style="text-align:justify"><a href="#id3.1.2"> 3.1.2</a> <span id="id3.1.2"> 当桥梁纵向采用不同结构形式或横向采用拼宽结构时，宜划分评定单元分别评定。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>桥梁在跨越复杂区域时可能在纵向采用不同结构形式，改扩建工程中可能在横向采用不同结构形式。由于各结构在受力特性或耐久性退化规律上存在差异，为准确反映其技术状况，提出划分单元分别评定。</p>
+ <p style="text-align:justify"><a href="#id3.1.3"> 3.1.3</a> <span id="id3.1.3"> 下列情况应开展桥梁技术状况评定：</span></p>
+ <ol>
+ <li> 初始检查。</li>
+ <li> 定期检查。</li>
+ <li> 桥梁结构监测系统中的结构响应和结构变化指标超限级别为三级。</li>
+ <li> 桥梁结构健康度等级为Ⅲ、Ⅳ级。</li>
+ <li> 桥梁新增严重缺损或其他异常。</li>
+ </ol>
+ <p style="text-align:justify;" >条文说明：<br/>3 根据《公路桥梁结构监测技术规范》（JT/T 1037—2022），主梁竖向位移、主梁横向位移、主梁振动、梁体倾角、主拱拱顶位移、拱脚位移、主缆偏位、索力、体外预应力、支座位移、桥墩倾斜、高墩墩顶位移、塔顶偏位、锚碇位移、基础沉降等结构响应和结构变化数据均为涉及桥梁安全运行的重要指标，超限级别为三级时可能引发桥梁局部损坏或整体垮塌的事故，因此，需要及时开展桥梁技术状况评定，与结构监测数据相互验证确定桥梁下一步使用状态。<br/>4 根据《公路桥梁结构监测技术规范》（JT/T 1037—2022），桥梁结构健康度等级为Ⅲ、Ⅳ级分别代表中等异常和严重异常，表明多项结构响应和结构变化指标出现超限。为确保桥梁结构安全，需要及时开展桥梁技术状况评定，与结构监测结果相互验证确定桥梁养护对策建议。</p>
+ <p style="text-align:justify"><a href="#id3.1.4"> 3.1.4</a> <span id="id3.1.4"> 桥梁技术状况检查方法应符合下列规定：</span></p>
+ <ol>
+ <li> 外观检查应采用目测观察结合常规工具、仪器抵近各构件进行检查。</li>
+ <li> 采用图像识别、人工智能等技术或设备检查时，应经过检定、校准或比对试验验证，并现场校核确认其准确性。</li>
+ <li> 外观检查难以判明构件缺损现状、发展趋势和功能异常程度时，可按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/FLA.html">附录A</a> 开展专项检查。</li>
+ </ol>
+ <p style="text-align:justify;" >条文说明：<br/>1 常规工具、仪器指测量花杆、羊角锤、钢板尺、钢卷尺、测距仪、裂缝测宽仪等。"抵近"指在检查人员手可触及范围内。钢结构检查时，《钢结构现场检测技术标准》（GB/T 50621—2010）规定，直接目视检测时眼睛与被检工件表面的距离不得大于 600mm，视线与被检工件表面所成的夹角不得小于 30°，并宜从多个角度对工件进行观察。<br/>2 近年来，无人机、爬索机器人、机器视觉识别等新技术、新设备在桥梁检查工作中开展了广泛地探索，但关于数据的可靠性业内尚无明确规定。本次修订在鼓励应用新技术、新设备的同时，提出相关技术或设备数据准确性的要求。<br/>3 公路桥梁检查旨在查明构件的缺损现状、发展趋势和功能异常程度，并分析其产生的原因和可能造成的影响，以此作为技术状况评定和养护决策的依据。当构件无法目视或外观检查不能准确判定时，需要开展专项检查进一步明确后才能准确评定桥梁技术状况。</p>
+ <p style="text-align:justify"><a href="#id3.1.5"> 3.1.5</a> <span id="id3.1.5"> 桥梁技术状况评定前应开展下列工作：</span></p>
+ <ol>
+ <li> 收集设计文件、竣工文件、初始检查资料，明确桥梁初始状态。</li>
+ <li> 收集桥梁检查、养护历史资料，明确桥梁技术状况发展变化情况。</li>
+ <li> 收集上一期技术状况评定以来的结构监测报告，分析结构响应和结构变化指标二、三级报警及检查情况，明确重点检查内容。</li>
+ <li> 根据桥梁养护管理系统数据，核查基础数据及技术资料符合性。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id3.1.6"> 3.1.6</a> <span id="id3.1.6"> 现场检查前应复核桥梁结构类型，并按本标准附录 B 确定桥梁部件组成及评定参数。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>根据近年来桥梁技术状况评定报告情况，《公路桥梁技术状况评定标准》（JTG/T H21—2011）给出 6 类桥型的部件组成划分和评定参数，对评定报告的一致性起到了很好的作用，但仍有很多桥型因评定人员的理解差异导致划分时不统一，因此，本次修订进一步细化明确。</p>
+ <p style="text-align:justify"><a href="#id3.1.7"> 3.1.7</a> <span id="id3.1.7"> 桥梁技术状况分层综合评定流程应按<a href="#fig3.1.7">图 3.1.7</a> 的规定执行。</span></p>
+ <div align="center"><img id="fig3.1.7" src="./_static/fig/3.1.7.png" alt="Picture" width="700px"></div>
+ <p style="color: dimgray;text-align: center;">图 3.1.7 桥梁技术状况分层综合评定流程</p>
+ <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig3.1.7'));</script>
+ <p style="text-align:justify"><a href="#id3.1.8"> 3.1.8</a> <span id="id3.1.8"> 悬索桥、斜拉桥或特殊结构桥梁可按本标准的方法制定专用技术状况评定标准。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>本标准覆盖我国绝大多数桥型，但部分悬索桥、斜拉桥或特殊结构桥梁由于构件设置或构件功能特性与本标准列出的构件不完全一致，因此，可以在本标准的评定方法基础上，结合桥梁特点、环境条件和养护需求制定专用的技术状况评定标准。</p>
+3.2 构件技术状况评定
+----------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.2.1"> 3.2.1</a> <span id="id3.2.1"> 构件技术状况评定应按构件缺损状况、功能状况和影响状况评定的顺序依次开展。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>缺损状况表示构件现状与原设计预期差异的程度，功能状况表示缺损对功能造成的异常程度，影响状况表示缺损和功能异常对构件、桥跨和全桥的影响，三者之间是依次递进的关系，因此，评定时需要按照缺损状况、功能状况和影响状况的顺序依次评定。</p>
+ <p style="text-align:justify"><a href="#id3.2.2"> 3.2.2</a> <span id="id3.2.2"> 桥梁构件应进行缺损状况（EDI）评定，评定要求见<a href="#B3.2.2">表3.2.2</a>，并应按下列规定执行：</span></p>
+ <ol>
+ <li> 耐久性缺损应按构件材料类别分别评定，评定标度值为 0、1 或 2。</li>
+ <li> 结构性缺损应按构件类别分别评定，评定标度值为 0、1、2 或 3。</li>
+ <li> 常用构件耐久性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/04.html">第 4 章</a>的规定执行，结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/05.html">第 5 章</a>~<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/12.html">第 12 章</a>的规定执行，以构件耐久性缺损和结构性缺损标度的最大值作为该构件缺损状况标度。</li>
+ <li> 维修加固构造的耐久性缺损应按本标准第 4 章的规定执行，结构性缺损应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/13.html">第 13 章</a>的规定执行，评定结果计入原构件缺损。</li>
+ <li> 相关标准或设计文件规定应设置的构件，未设置时该构件缺损状况评定标度值应为 3。</li>
+ </ol>
+ <style>
+   #biaoge {
+       border: 2px solid black;
+       border-collapse: collapse;
+       margin-bottom:1px;
+
+    }
+    th, td {
+       padding-top: 5px;
+       padding-bottom:5px;
+       padding-left:5px;
+       padding-right:5px;
+       border: 1px solid black;
+       vertical-align: middle;
+    }
+    #eqzs {
+       border: 0px;
+       vertical-align: top !important;
+    }
+    #dhbg {
+      vertical-align: middle;
+    }
+   </style>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.2.2">表3.2.2 构件缺损状况评定要求</b></caption>
+ <tr><td  align="center" id="dhbg" width="180px" rowspan="2">缺损状况<br/>（EDI）</td><td  align="center" id="dhbg" colspan="4">评定标度</td></tr>
+ <tr><td  align="center" id="dhbg" width="180px">0</td><td  align="center" id="dhbg" width="180px">1</td><td  align="center" id="dhbg" width="180px">2</td><td  align="center" id="dhbg" width="180px">3</td></tr>
+ <tr><td align="center" id="dhbg" >耐久性缺损<br/>（EDDI）<br/>状况描述</td><td align="center" id="dhbg" >完好 或局部轻度缺损</td><td align="center" id="dhbg" >较多轻度缺损 或局部中度缺损</td><td align="center" id="dhbg" >较多中度缺损 或局部严重缺损</td><td align="center" id="dhbg" >—</td></tr>
+ <tr><td align="center" id="dhbg" >结构性缺损<br/>（ESDI）<br/>状况描述</td><td align="center" id="dhbg" >完好 或局部微小缺损</td><td align="center" id="dhbg" >轻度缺损</td><td align="center" id="dhbg" >中度缺损</td><td align="center" id="dhbg" >严重缺损</td></tr>
+ </table>
+ <p> </p>
+ <p style="text-align:justify;" >条文说明：<br/>由于施工期和运营期均可能导致桥梁构件产生缺损，根据缺损产生原因划分为影响构件设计使用年限或目标使用年限的耐久性缺损和导致构件力学性能或使用功能不足的结构性缺损。<br/>1 耐久性缺损包括由于施工期质量问题造成的初始耐久性缺陷、运营期产生的材质劣化、防护措施失效等耐久性损伤。由于构件耐久性能取决于构件材料和防护措施特性，因此，构件的耐久性缺损按主要材料类别评定。<br/>2 结构性缺损包括由于设计或施工失误造成的初始结构性缺陷、外部作用下产生的结构性损伤。由于构件结构性能因构件类型和所承担的力学性能有很大差异，因此，根据桥型、构件类型及其力学性能进一步细化评定标准。<br/>4 对于维修加固构造，增设构造与原构件协同受力共同承担功能。当增设构造发生耐久性缺损或结构性缺损时，将造成构件整体使用寿命或功能降低，因此，其缺损纳入原构件缺损标度评定。</p>
+ <p style="text-align:justify"><a href="#id3.2.3"> 3.2.3</a> <span id="id3.2.3"> 桥梁构件应进行功能状况（EFI）评定，评定要求见<a href="#B3.2.3">表3.2.3</a>，并应按下列规定执行：</span></p>
+ <ol>
+ <li> 构件功能状况评定结果应为正常、一般异常或严重异常，标度值为 0、1 或 2。</li>
+ <li> 常用构件功能状况评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/14.html">第 14 章</a>的规定执行，存在多项功能异常时以评定标度最大值作为构件功能状况标度。</li>
+ </ol>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.2.3">表3.2.3 功能状况评定要求</b></caption>
+ <tr><td  align="center" id="dhbg" width="150px" rowspan="3">功能状况<br/>（EFI）</td><td  align="center" id="dhbg" colspan="3">评定标度</td></tr>
+ <tr><td  align="center" id="dhbg" width="150px">0</td><td  align="center" id="dhbg" width="300px">1</td><td  align="center" id="dhbg" width="300px">2</td></tr>
+ <tr><td align="center" id="dhbg" >正常</td><td align="center" id="dhbg" >一般异常</td><td align="center" id="dhbg" >严重异常</td></tr>
+ <tr><td align="center" id="dhbg" >状况描述</td><td align="center" id="dhbg" >功能正常</td><td align="center" id="dhbg" >功能受限，尚不影响结构运行</td><td align="center" id="dhbg" >功能部分丧失或完全丧失，影响结构运行</td></tr>
+ </table>
+ <p> </p>
+ <p style="text-align:justify;" >条文说明：<br/>在实际工程中，构件产生缺损后会对结构功能造成影响，也有部分构件由于设置不当等原因造成构件自身虽然没有产生明显缺损，但出现没有达到预期功能的情况，因此，功能状况指标要同时兼顾这两种情况。</p>
+ <p style="text-align:justify"><a href="#id3.2.4"> 3.2.4</a> <span id="id3.2.4"> 桥梁主要构件应进行影响状况（EAI）评定，评定要求见<a href="#B3.2.4">表3.2.4</a>，并应按下列规定执行：</span></p>
+ <ol>
+ <li> 构件影响状况评定结果为轻微、一般或严重，标度值为 -1、0 或 1。</li>
+ <li> 常用构件影响状况评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/15.html">第 15 章</a>的规定执行，存在多种影响时以评定标度最大值作为构件影响状况标度。</li>
+ </ol>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.2.4">表3.2.4 影响状况评定要求</b></caption>
+ <tr><td  align="center" id="dhbg" width="150px" rowspan="3">影响状况<br/>（EAI）</td><td  align="center" id="dhbg" colspan="3">评定标度</td></tr>
+ <tr><td  align="center" id="dhbg" width="250px">-1</td><td  align="center" id="dhbg" width="250px">0</td><td  align="center" id="dhbg" width="250px">1</td></tr>
+ <tr><td align="center" id="dhbg" >轻微</td><td align="center" id="dhbg" >一般</td><td align="center" id="dhbg" >严重</td></tr>
+ <tr><td align="center" id="dhbg" >状况描述</td><td align="center" id="dhbg" >缺损趋向稳定</td><td align="center" id="dhbg" >缺损缓慢发展</td><td align="left" id="dhbg" >缺损加速发展；缺损或功能异常可能导致结构整体或局部垮塌；发生灾害可能影响构件功能或结构安全</td></tr>
+ </table>
+ <p> </p>
+ <p style="text-align:justify;" >条文说明：<br/>影响状况反映构件既有缺损、功能异常及外部风险对桥梁安全运行的影响。缺损发展过快表征构件趋于向不稳定的工作状态发展，需要结合桥梁设计、竣工文件和历次桥梁检查报告、养护历史及结构监测数据综合分析判定。鉴于桥梁结构的复杂性，相邻构件之间除直接传递荷载外，还兼有协同工作的作用，不同程度的缺损、功能异常或外部风险都可能对构件自身、相邻构件或桥跨、桥梁整体安全运行造成影响，因此，引入影响状况指标。</p>
+ <p style="text-align:justify"><a href="#id3.2.5"> 3.2.5</a> <span id="id3.2.5"> 构件技术状况标度（ECI）应按<a href="#ideq3.2.5">式(3.2.5)</a><span id="ideq3.2.5"> 计算。</span></span></p>
+ <p>$$\mathtt{ECI}=\mathtt{EDI}+\mathtt{EFI}+\mathtt{EAI}\tag{3.2.5}$$</p>
+ <p style="text-align:justify;" >条文说明：<br/>ECI——构件技术状况标度，计算值≥5 时取 5；<br/>EDI——构件缺损状况标度（0、1、2、3）；<br/>EFI——构件功能状况标度（0、1、2）；<br/>EAI——构件影响状况标度（-1、0、1）。</p>
+ <p style="text-align:justify"><a href="#id3.2.6"> 3.2.6</a> <span id="id3.2.6"> 构件技术状况等级（ECL）应分为 1 类、2 类、3 类、4 类和 5 类，分类界限应以技术状况标度按<a href="#B3.2.6">表3.2.6</a>的规定执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.2.6">表3.2.6 构件技术状况分类界限</b></caption>
+ <tr><td  align="center" id="dhbg" width="240px" rowspan="2">项目</td><td  align="center" id="dhbg" colspan="6">构件技术状况标度（ECI）</td></tr>
+ <tr><td  align="center" id="dhbg" width="110px">0</td><td  align="center" id="dhbg" width="110px">1</td><td  align="center" id="dhbg" width="110px">2</td><td  align="center" id="dhbg" width="110px">3</td><td  align="center" id="dhbg" width="110px">4</td><td  align="center" id="dhbg" width="110px">5</td></tr>
+ <tr><td align="center" id="dhbg" >构件技术状况等级<br/>（ECL）</td><td align="center" id="dhbg" colspan="2">1类</td><td align="center" id="dhbg" >2类</td><td align="center" id="dhbg" >3类</td><td align="center" id="dhbg" >4类</td><td align="center" id="dhbg" >5类</td></tr>
+ <tr><td align="center" id="dhbg" >代表的状态</td><td align="center" id="dhbg" colspan="2">优</td><td align="center" id="dhbg" >良</td><td align="center" id="dhbg" >中</td><td align="center" id="dhbg" >次</td><td align="center" id="dhbg" >差</td></tr>
+ </table>
+ <p> </p>
+3.3 桥跨技术状况评定
+----------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.3.1"> 3.3.1</a> <span id="id3.3.1"> 桥跨技术状况指数应以所在桥跨各构件技术状况按<a href="#ideq3.3.1">式(3.3.1)</a><span id="ideq3.3.1"> 计算。</span></span></p>
+
+$$\mathrm{BSCI} _{(i)}=100- {\textstyle \sum_{1}^{\mathrm{n} }} \mathrm{CI} _{(j)}\omega \gamma /5\tag{3.3.1}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+<td width="60px" align='center' id="eqzs">式中：</td>
+<td width="30px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mrow><mi mathvariant="normal">BSCI</mi></mrow><mrow><mo stretchy="false">(</mo><mi>i</mi><mo stretchy="false">)</mo></mrow></msub></math></td>
+<td width="40px" align='left' id="eqzs">——</td>
+<td id="eqzs">第 <i>i</i> 跨桥跨技术状况指数，保留一位小数；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mrow><mi mathvariant="normal">CI</mi></mrow><mrow><mo stretchy="false">(</mo><mi>j</mi><mo stretchy="false">)</mo></mrow></msub></math></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨第 <i>j</i> 个部件的最差构件技术状况标度；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><i>ω</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">部件权重值（本标准附录 B）；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><i>γ</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥面系、上部结构、下部结构和附属构造的影响系数（本标准附录 B）；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><i>i</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨编号；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><i>j</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨的部件编号；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><i>n</i></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨的组成部件数量。</td>
+</tr>
+ </table>
+ <p></p>
+ <p style="text-align:justify;" >条文说明：<br/>计算桥跨技术状况时，相邻两跨共用的桥墩、支座、伸缩装置等在两跨均要计算；拼宽结构中，新旧结构共用的构件如拼接缝、横隔板、结构连接的下部结构等在各评定单元均要计算。</p>
+ <p style="text-align:justify"><a href="#id3.3.2"> 3.3.2</a> <span id="id3.3.2"> 桥跨技术状况等级应分为 1 类、2 类、3 类、4 类和 5 类，分类界限应以技术状况指数按<a href="#B3.3.2">表3.3.2</a>的规定执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.3.2">表3.3.2 桥跨技术状况分类界限</b></caption>
+ <tr><td  align="center" id="dhbg" width="400px" rowspan="2">项目</td><td  align="center" id="dhbg" colspan="5">桥跨技术状况指数<br/>（<math ><msub><mrow><mi mathvariant="normal">BSCI</mi></mrow><mrow><mo stretchy="false">(</mo><mi>i</mi><mo stretchy="false">)</mo></mrow></msub></math>）</td></tr>
+ <tr><td  align="center" id="dhbg" width="100px">(90,100]</td><td  align="center" id="dhbg" width="100px">(75,90]</td><td  align="center" id="dhbg" width="100px">(60,75]</td><td  align="center" id="dhbg" width="100px">(40,60]</td><td  align="center" id="dhbg" width="100px">[0,40]</td></tr>
+ <tr><td align="center" id="dhbg" >桥跨技术状况等级<br/>（<math ><msub><mrow><mi mathvariant="normal">BSCL</mi></mrow><mrow><mo stretchy="false">(</mo><mi>i</mi><mo stretchy="false">)</mo></mrow></msub></math>）</td><td align="center" id="dhbg" >1类</td><td align="center" id="dhbg" >2类</td><td align="center" id="dhbg" >3类</td><td align="center" id="dhbg" >4类</td><td align="center" id="dhbg" >5类</td></tr>
+ </table>
+ <p> </p>
+ <p style="text-align:justify"><a href="#id3.3.3"> 3.3.3</a> <span id="id3.3.3"> 主要构件技术状况等级为 4 类或 5 类且影响桥梁安全时，所在桥跨技术状况等级应按该构件最差技术状况等级评定。常用桥型主要构件见<a href="#B3.3.3">表3.3.3</a>，特殊桥型可根据构件功能特征确定主要构件并说明依据。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.3.3">表3.3.3 常用桥型主要构件</b></caption>
+ <tr><td  align="center" id="dhbg" width="100px">序号</td><td  align="center" id="dhbg" width="100px">桥型</td><td  align="center" id="dhbg" width="700px">主要构件</td></tr>
+ <tr><td align="center" id="dhbg">1</td><td align="center" id="dhbg">梁桥</td><td align="left" id="dhbg">主梁、支座、桥墩、桥台、基础</td></tr>
+ <tr><td align="center" id="dhbg">2</td><td align="center" id="dhbg">拱桥</td><td align="left" id="dhbg">主拱圈（拱板、拱肋、拱箱、拱片）、腹拱墩或立柱、腹拱圈、桥面板、桥墩、桥台、基础</td></tr>
+ <tr><td align="center" id="dhbg">3</td><td align="center" id="dhbg">组合体系拱桥</td><td align="left" id="dhbg">拱肋及横撑、立柱、桥面板、支座、吊杆、系杆、桥墩、桥台、基础</td></tr>
+ <tr><td align="center" id="dhbg">4</td><td align="center" id="dhbg">悬索桥</td><td align="left" id="dhbg">加劲梁、支座、吊索及索夹、主缆、索塔及索鞍、锚碇及锚固系统、桥墩、桥台、基础</td></tr>
+ <tr><td align="center" id="dhbg">5</td><td align="center" id="dhbg">斜拉桥</td><td align="left" id="dhbg">斜拉索（拉索、锚固系统）、主梁、支座、索塔、桥墩、桥台、基础</td></tr>
+ </table>
+ <p><font size="2"> </font></p>
+ <p style="text-align:justify;" >条文说明：<br/>主要构件指在桥梁结构中起承担或传递荷载功能的构件。主要构件的严重缺损可能引起桥梁局部或整体垮塌，因此，当主要构件的技术状况等级为 4 类或 5 类时，根据构件当前状态对桥梁运行安全的影响程度确定是否按该构件的技术状况等级作为所在桥跨的技术状况，并说明理由。当该桥跨技术状况等级采用最差构件技术状况等级时，后续计算中该桥跨技术状况指数取该等级桥跨技术状况指数的上限值（4 类取 60，5 类取 40）。</p>
+3.4 全桥技术状况评定
+----------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.4.1"> 3.4.1</a> <span id="id3.4.1"> 单跨桥梁应以桥跨技术状况等级作为全桥技术状况等级，以桥跨技术状况指数作为全桥技术状况指数。</span></p>
+ <p style="text-align:justify"><a href="#id3.4.2"> 3.4.2</a> <span id="id3.4.2"> 多跨桥梁各桥跨技术状况等级一致时，应以桥跨技术状况等级作为全桥技术状况等级，以各桥跨技术状况指数算术平均值作为全桥技术状况指数。</span></p>
+ <p style="text-align:justify"><a href="#id3.4.3"> 3.4.3</a> <span id="id3.4.3"> 多跨桥梁各桥跨技术状况等级不一致时，应以最差桥跨技术状况等级作为全桥技术状况等级，以所有桥跨技术状况指数按<a href="#ideq3.4.3">式(3.4.3)</a><span id="ideq3.4.3"> 计算结果作为全桥技术状况指数：</span></span></p>
+
+$$\mathrm{BCI} =\mathrm{BSCI} _{\min }+\dfrac{\left(\mathrm{BSCI} _{\lim }-\mathrm{BSCI} _{\min }\right)\cdot \left(\overline{\mathrm{BSCI}}-\mathrm{BSCI} _{\min }\right)}{\mathrm{BSCI} _{\max }-\mathrm{BSCI} _{\min }}\tag{3.4.3}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+<td width="60px" align='center' id="eqzs">式中：</td>
+<td width="30px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"  ><mi mathvariant="normal">BCI</mi><mrow></mrow></math></td>
+<td width="40px" align='left' id="eqzs">——</td>
+<td id="eqzs">全桥技术状况指数，保留一位小数；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mrow><mi mathvariant="normal">BSCI</mi></mrow><mrow><mi>max</mi></mrow></msub></math></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨技术状况指数最大值；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mrow><mi mathvariant="normal">BSCI</mi></mrow><mrow><mi>min</mi></mrow></msub></math></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨技术状况指数最小值；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mrow><mi mathvariant="normal">BSCI</mi></mrow><mrow><mi>lim</mi></mrow></msub></math></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨技术状况指数限制值：桥跨技术状况等级为 2 类时，取 90；桥跨技术状况等级为 3 类时，取 75；桥跨技术状况等级为 4 类时，取 60；桥跨技术状况等级为 5 类时，取 40；</td>
+</tr>
+ <tr>
+<td id="eqzs"> </td>
+<td id="eqzs" align='right'><math xmlns="http://www.w3.org/1998/Math/MathML" ><mover><mrow><mi mathvariant="normal">BSCI</mi></mrow><mo accent="false">¯</mo></mover></math></td>
+<td id="eqzs">——</td>
+<td id="eqzs">桥跨技术状况指数算术平均值。</td>
+</tr>
+ </table>
+ <p></p>
+ <p style="text-align:justify"><a href="#id3.4.4"> 3.4.4</a> <span id="id3.4.4"> 桥梁划分评定单元时，应以最差单元评定结果作为全桥技术状况结果。</span></p>
+ <p style="text-align:justify"><a href="#id3.4.5"> 3.4.5</a> <span id="id3.4.5"> 当桥梁出现下列任一单项控制指标时，全桥技术状况等级应评定为 5 类：</span></p>
+ <ol>
+ <li> 落梁或梁板断裂。</li>
+ <li> 主梁控制截面全截面开裂。</li>
+ <li> 组合结构主梁结合面贯通开裂，组合作用失效。</li>
+ <li> 主梁明显永久变形，变形大于规范值并伴随严重开裂。</li>
+ <li> 拱桥主拱圈严重变形。</li>
+ <li> 圬工拱桥主拱圈砌体大范围断裂、脱落。</li>
+ <li> 拱桥拱脚固结失效、明显变位。</li>
+ <li> 拱桥腹拱圈、桥面板塌陷或断裂。</li>
+ <li> 主要构件混凝土压溃或构件有失稳趋势。</li>
+ <li> 上部结构主要构件异常错位，有失稳或落梁趋势。</li>
+ <li> 主缆、拉吊索、系杆严重锈蚀或断裂。</li>
+ <li> 桥墩、桥台严重倾斜。</li>
+ <li> 扩大基础冲刷至基础底面，冲空面积大于 20%。</li>
+ <li> 桩柱连接钢筋失效或桩柱严重错位。</li>
+ <li> 桩基础核心混凝土大范围缺失。</li>
+ <li> 墩台基础、锚碇明显位移、下沉、倾斜。</li>
+ </ol>
+ <p style="text-align:justify;" >条文说明：<br/>桥梁关键部位出现严重缺损可能危及桥梁安全。为便于紧急情况下的简单判定，《公路桥梁技术状况评定标准》（JTG/T H21—2011）首次提出 5 类桥梁单项控制指标，本次修订在原有条款基础上适当优化。在桥梁检查中发现符合本条规定的任一情况时，将桥跨及桥梁技术状况等级评定为 5 类，并在评定报告中说明分层综合评定法和单项控制指标法评定结果。</p>
+3.5 评定结果及其应用
+----------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.5.1"> 3.5.1</a> <span id="id3.5.1"> 桥梁技术状况评定报告应符合本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/FLC.html">附录C</a>的规定。</span></p>
+ <p style="text-align:justify"><a href="#id3.5.2"> 3.5.2</a> <span id="id3.5.2"> 应根据构件技术状况等级按<a href="#B3.5.2">表3.5.2</a>提出相应的养护对策。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.5.2">表3.5.2 构件技术状况等级和养护对策</b></caption>
+ <tr><td  align="center" id="dhbg" width="150px" >构件技术状况等级<br/>（ECL）</td><td  align="center" id="dhbg" width="150px" >状态</td><td  align="center" id="dhbg" width="600px" >养护对策</td></tr>
+ <tr><td align="center" id="dhbg" >1类</td><td align="center" id="dhbg" >优</td><td align="center" id="dhbg" >日常养护</td></tr>
+ <tr><td align="center" id="dhbg" >2类</td><td align="center" id="dhbg" >良</td><td align="center" id="dhbg" >日常养护、预防养护</td></tr>
+ <tr><td align="center" id="dhbg" >3类</td><td align="center" id="dhbg" >中</td><td align="center" id="dhbg" >预防养护、修复养护</td></tr>
+ <tr><td align="center" id="dhbg" >4类</td><td align="center" id="dhbg" >次</td><td align="center" id="dhbg" >修复养护</td></tr>
+ <tr><td align="center" id="dhbg" >5类</td><td align="center" id="dhbg" >差</td><td align="center" id="dhbg" >修复养护</td></tr>
+ </table>
+ <p> </p>
+ <p style="text-align:justify;" >条文说明：<br/>近年来，部分桥梁管养单位针对不同桥梁的同类构件开展集中养护，可达到精准提升的目标，为了便于进一步推广，本标准结合调研及经验总结提出针对构件的养护对策建议。具体对策制定需要根据缺损的范围、程度，结合现行《公路桥梁耐久性检测评定规程》（JTG/T 5231）或《公路桥涵养护规范》（JTG 5120）的规定，以及管养单位的养护计划综合考虑。</p>
+ <p style="text-align:justify"><a href="#id3.5.3"> 3.5.3</a> <span id="id3.5.3"> 应根据桥梁技术状况等级按现行《公路桥涵养护规范》（JTG 5120）的规定提出相应的养护对策。</span></p>
+:math:`\ `

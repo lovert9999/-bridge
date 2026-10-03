@@ -1,0 +1,586 @@
+8 组合体系拱桥上部结构构件结构性缺损评定
+========================================
+
+.. raw:: html
+
+  <h2 id="test111">8 组合体系拱桥上部结构构件结构性缺损评定</h2>
+
+8.1 一般规定
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.1.1"> 8.1.1</a> <span id="id8.1.1"> 组合体系拱桥上部结构应对主拱圈、横向联系、系杆、吊杆和立柱、横梁和纵梁、桥面板等构件进行结构性缺损评定。</span></p>
+ <p style="text-align:justify"><a href="#id8.1.2"> 8.1.2</a> <span id="id8.1.2"> 桥面板设置铰缝、横隔板或支座的，相关缺损应计入桥面板缺损评定。</span></p><p style="text-align:justify"><a href="#id8.1.3"> 8.1.3</a> <span id="id8.1.3"> 桥面板铰缝或横隔板结构性缺损评定应按本标准第6.3节执行。</span></p><p style="text-align:justify"><a href="#id8.1.4"> 8.1.4</a> <span id="id8.1.4"> 支座结构性缺损评定应按本标准第6.4节执行。</span></p>
+ 
+8.2 主拱圈
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 钢筋混凝土肋拱圈结构性缺损评定应按本标准<a href="07.html#id7.2.4">第7.2.4条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2"> 钢筋混凝土箱形拱圈结构性缺损评定应按本标准<a href="07.html#id7.2.5">第7.2.5条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 钢箱拱圈、钢桁拱圈结构性缺损评定应按本标准<a href="07.html#id7.2.9">第7.2.9条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 钢管混凝土拱圈结构性缺损评定应按本标准<a href="07.html#id7.2.10">第7.2.10条</a>执行。</span></p>
+
+8.3 横向联系
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.3.1"> 8.3.1</a> <span id="id8.3.1"> 钢横撑结构性缺损评定应按<a href="#B8.3.1">表8.3.1</a> 执行。</span></p>
+ <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         vertical-align: middle;
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+ </style>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.3.1">表8.3.1 钢横撑评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积不大于10%</td>
+                <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积大于10%</td>
+        <td align="left" id="dhbg" >氧化皮因锈蚀而剥落，有轻微点蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >裂纹</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有裂纹</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >局部变形</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >明显局部变形</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >螺栓、铆钉缺损</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >表面轻度锈蚀</td>
+                <td align="left" id="dhbg" >松动、脱落数量不大于节点总量的10%</td>
+        <td align="left" id="dhbg" >松动、脱落数量大于节点总量的10%</td>
+            </tr>
+        </table>
+                <p style="text-indent:2em;" ><font size="2"> 注：面积和数量以杆件计；明显局部变形时需确认外力导致或结构受力导致，必要时专项检查确认，外力导致且不影响结构受力时不参与评定。</font></p>
+ <p style="text-align:justify"><a href="#id8.3.2"> 8.3.2</a> <span id="id8.3.2"> 钢筋混凝土横系梁结构性缺损评定应按<a href="#B8.3.2">表8.3.2</a> 执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.3.2">表8.3.2 钢筋混凝土横系梁评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >钢筋锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="left" id="dhbg" >主筋外露锈蚀</td>
+        <td align="left" id="dhbg" >主筋严重锈蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >端部裂缝</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >宽度小于0.1mm</td>
+                <td align="left" id="dhbg" >宽度介于0.1~0.2mm</td>
+        <td align="left" id="dhbg" >宽度大于0.2mm</td>
+            </tr>
+ </table>
+  <p style="text-indent:2em;" ><font size="2"> </font></p> 
+
+8.4 系杆
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.4.1"> 8.4.1</a> <span id="id8.4.1"> 钢筋混凝土系杆结构性缺损应按本标准<a href="06.html#id6.2.6">第6.2.6条</a>评定。</span></p>
+ <p style="text-align:justify"><a href="#id8.4.2"> 8.4.2</a> <span id="id8.4.2"> 预应力混凝土系杆结构性缺损应按本标准<a href="06.html#id6.2.7">第6.2.7条</a>评定。</span></p>
+ <p style="text-align:justify"><a href="#id8.4.3"> 8.4.3</a> <span id="id8.4.3"> 系杆索结构性缺损评定应按<a href="#B8.4.3">表8.4.3</a> 执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.4.3">表8.4.3 系杆索评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >防护层损伤（柔性）</td>
+                <td align="left" id="dhbg" >完好或表层防护老化变色</td>
+        <td align="left" id="dhbg" >表层防护鼓包、划痕</td>
+                <td align="left" id="dhbg" >表层防护开裂或破损失效；内层防护老化、划痕</td>
+        <td align="left" id="dhbg" >内层防护开裂或破损失效</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="left" id="dhbg" >索体有锈斑或个别蚀坑</td>
+        <td align="left" id="dhbg" >索体表面密集蚀坑</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >断丝</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有断丝</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锚固区损伤（混凝土）</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >混凝土劣化</td>
+                <td align="left" id="dhbg" >混凝土开裂</td>
+        <td align="left" id="dhbg" >混凝土开裂渗水</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锚固区损伤（钢）</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >氧化皮覆盖，几乎没有铁锈</td>
+                <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落</td>
+        <td align="left" id="dhbg" >氧化皮因锈蚀而剥落，有轻微点蚀；有裂纹或变形</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锚头损伤</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >锚头油脂流失，但无积水、锈蚀</td>
+                <td align="left" id="dhbg" >有积水、轻度锈蚀</td>
+        <td align="left" id="dhbg" >锚头严重锈蚀或锚固失效</td>
+            </tr>
+ <tr>
+ <td align="center" id="dhbg" >支架体系缺损</td>
+ <td align="center" id="dhbg" >-</td>
+ <td align="left" id="dhbg" >转轮有缺损，但不影响工作</td>
+ <td align="left" id="dhbg" >转轮有缺损，影响正常工作</td>
+ <td align="left" id="dhbg" >转轮失效或支架有裂纹、变形等异常</td>
+ </tr>
+ </table>
+  <p style="text-indent:2em;" ><font size="2"> </font></p> 
+
+8.5 吊杆和立柱
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.5.1"> 8.5.1</a> <span id="id8.5.1"> 刚性吊杆结构性缺损评定应按<a href="#B8.5.1">表8.5.1</a> 执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.5.1">表8.5.1 刚性吊杆评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积不大于10%</td>
+                <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积大于10%</td>
+        <td align="left" id="dhbg" >氧化皮因锈蚀而剥落，有轻微点蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >裂纹</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有裂纹</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >局部变形</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >明显局部变形</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >整体变形</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >明显变形</td>
+            </tr>
+ </table>
+  <p style="text-indent:2em;" ><font size="2"> </font></p> 
+ <p style="text-align:justify;" >条文说明：<br/> 刚性吊杆在组合结构拱桥中应用的案例较少，一般以钢管为吊杆材料，因此，列出钢结构吊杆评定标度。</p>
+ <p style="text-align:justify"><a href="#id8.5.2"> 8.5.2</a> <span id="id8.5.2"> 吊索结构性缺损评定应按<a href="#B8.5.2">表8.5.2</a>执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.5.2">表8.5.2 吊索评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >防护层损伤（柔性）</td>
+                <td align="left" id="dhbg" >完好或表层防护老化变色</td>
+        <td align="left" id="dhbg" >表层防护鼓包、划痕</td>
+                <td align="left" id="dhbg" >表层防护开裂或破损失效；内层防护老化、划痕</td>
+        <td align="left" id="dhbg" >内层防护开裂或破损失效</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >防护层损伤（刚性）</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >表面局部防腐脱落或轻度碰撞损伤</td>
+                <td align="left" id="dhbg" >表面普遍锈蚀或局部变形，对索体无明显影响</td>
+        <td align="left" id="dhbg" >失去防护或严重变形</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="left" id="dhbg" >索体有锈斑或个别蚀坑</td>
+        <td align="left" id="dhbg" >索体表面密集蚀坑</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >断丝</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有断丝</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锚固区损伤（混凝土）</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >混凝土劣化</td>
+                <td align="left" id="dhbg" >混凝土开裂</td>
+        <td align="left" id="dhbg" >混凝土开裂渗水</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锚固区损伤（钢）</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >氧化皮覆盖，几乎没有铁锈</td>
+                <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落</td>
+        <td align="left" id="dhbg" >氧化皮因锈蚀而剥落，有轻微点蚀；有裂纹或变形</td>
+            </tr>
+ <tr>
+ <td align="center" id="dhbg" >锚头损伤</td>
+ <td align="center" id="dhbg" >-</td>
+ <td align="left" id="dhbg" >锚头油脂流失，但无积水、锈蚀</td>
+ <td align="left" id="dhbg" >有积水、轻度锈蚀</td>
+ <td align="left" id="dhbg" >锚固端索体锈蚀，锚头严重锈蚀或锚固失效</td>
+ </tr>
+ </table>
+  <p style="text-indent:2em;" ><font size="2"> </font></p> 
+ <p style="text-align:justify;" >条文说明：<br/> 部分吊索设置通长钢套管并与拱圈和主梁焊接，检查时需与刚性吊杆区分。</p>
+ <p style="text-align:justify"><a href="#id8.5.3"> 8.5.3</a> <span id="id8.5.3"> 钢筋混凝土立柱结构性缺损评定应按本标准<a href="07.html#id7.3.2">第7.3.2条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.5.4"> 8.5.4</a> <span id="id8.5.4"> 钢立柱结构性缺损评定应按本标准<a href="07.html#id7.3.3">第7.3.3条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.5.5"> 8.5.5</a> <span id="id8.5.5"> 钢管混凝土立柱结构性缺损评定应按本标准<a href="07.html#id7.3.4">第7.3.4条</a>执行。</span></p>
+
+ 
+
+8.6 横梁和纵梁
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.6.1"> 8.6.1</a> <span id="id8.6.1"> 横梁间未设置加劲纵梁时，纵梁结构性缺损评定标度值应为3。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>《钢管混凝土拱桥技术规范》（GB 50923—2013）第7.5.1条规定，中承式和下承式拱桥的悬吊桥面系应采用整体性结构，以横梁受力为主的悬吊桥面系必须设置加劲纵梁，并应具有一根横梁两端相对应的吊索失效后不落梁的能力。因此，提出未设置加劲纵梁时，纵梁结构性缺损评定标度为3。</p>
+ <p style="text-align:justify"><a href="#id8.6.2"> 8.6.2</a> <span id="id8.6.2"> 钢筋混凝土横梁结构性缺损评定应按<a href="#B8.6.2">表8.6.2</a>执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.6.2">表8.6.2 钢筋混凝土横梁评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >钢筋锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="left" id="dhbg" >主筋外露锈蚀</td>
+        <td align="left" id="dhbg" >主筋严重锈蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >受弯裂缝</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >宽度小于0.1mm</td>
+                <td align="left" id="dhbg" >宽度介于0.1~0.25mm</td>
+        <td align="left" id="dhbg" >宽度大于0.25mm</td>
+            </tr>
+ </table>
+ <p style="text-indent:2em;" ><font size="2"> 注：受弯裂缝指横梁底面和侧面的正弯矩裂缝。</font></p> 
+ <p style="text-align:justify"><a href="#id8.6.3"> 8.6.3</a> <span id="id8.6.3"> 预应力混凝土横梁结构性缺损评定应按<a href="#B8.6.3">表8.6.3</a>执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.6.3">表8.6.3 预应力混凝土横梁评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >钢筋锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="left" id="dhbg" >主筋外露锈蚀</td>
+        <td align="left" id="dhbg" >主筋严重锈蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >受弯裂缝</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有裂缝</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >预应力损伤</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >波纹管外露</td>
+                <td align="left" id="dhbg" >锚头外露锈蚀</td>
+        <td align="left" id="dhbg" >预应力筋外露；锚头严重锈蚀</td>
+            </tr>
+ </table>
+  <p style="text-indent:2em;" ><font size="2"> 注：受弯裂缝指横梁底面和侧面的正弯矩裂缝。</font></p> 
+ <p style="text-align:justify"><a href="#id8.6.4"> 8.6.4</a> <span id="id8.6.4"> 钢横梁结构性缺损评定应按<a href="#B8.6.4">表8.6.4</a>执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.6.4">表8.6.4 钢横梁评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积不大于10%</td>
+                <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积大于10%</td>
+        <td align="left" id="dhbg" >氧化皮因锈蚀而剥落，有轻微点蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >裂纹</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有裂纹</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >局部变形</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >明显局部变形</td>
+            </tr>
+ <tr>
+ <td align="center" id="dhbg" >螺栓、铆钉缺损</td>
+ <td align="center" id="dhbg" >-</td>
+ <td align="left" id="dhbg" >表面轻度锈蚀</td>
+ <td align="left" id="dhbg" >松动、脱落数量不大于节点总量的10%</td>
+ <td align="left" id="dhbg" >松动、脱落数量大于节点总量的10%</td>
+ </tr>
+ </table>
+ <p style="text-indent:2em;" ><font size="2"> 注：面积和数量以杆件计；明显局部变形时需确认外力导致或结构受力导致，必要时专项检查确认，外力导致且不影响结构受力时不参与评定。</font></p>
+ <p style="text-align:justify"><a href="#id8.6.5"> 8.6.5</a> <span id="id8.6.5"> 钢筋混凝土纵梁结构性缺损评定应按<a href="#B8.6.5">表8.6.5</a>执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+ <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.6.5">表8.6.5 钢筋混凝土纵梁评定</b></caption>
+
+ <tr>
+ <td  align="center" width=140px rowspan="2">评定指标</td>
+ <td  align="center" colspan="4">评定标度</td>
+ <!-- <td></td> -->
+ <!-- <td></td> -->
+ <!-- <td></td> -->
+ </tr>
+ <tr>
+ <!-- <td></td> -->
+ <td align="center" id="dhbg" width=190px >0</td>
+ <td align="center" id="dhbg" width=190px >1</td>
+ <td align="center" id="dhbg" width=190px >2</td>
+ <td align="center" id="dhbg" width=190px >3</td>
+ </tr>
+ <tr>
+ <td align="center" id="dhbg" >钢筋锈蚀</td>
+ <td align="center" id="dhbg" >-</td>
+ <td align="center" id="dhbg" >-</td>
+ <td align="left" id="dhbg" >主筋外露锈蚀</td>
+ <td align="left" id="dhbg" >主筋严重锈蚀</td>
+ </tr>
+ <tr>
+ <td align="center" id="dhbg" >受弯裂缝</td>
+ <td align="center" id="dhbg" >-</td>
+ <td align="left" id="dhbg" >宽度小于0.1mm</td>
+ <td align="left" id="dhbg" >宽度介于0.1~0.25mm</td>
+ <td align="left" id="dhbg" >宽度大于0.25mm</td>
+ </tr>
+ </table>
+ <p style="text-indent:2em;" ><font size="2"> 注：受弯裂缝指纵梁底面和侧面的正弯矩裂缝和纵横梁连接处裂缝。</font></p> 
+ <p style="text-align:justify"><a href="#id8.6.6"> 8.6.6</a> <span id="id8.6.6"> 钢纵梁结构性缺损评定应按<a href="#B8.6.6">表8.6.6</a>执行。</span></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+        <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8.6.6">表8.6.6 钢纵梁评定</b></caption>
+
+                <tr>
+                <td  align="center" width=140px rowspan="2">评定指标</td>
+                <td  align="center" colspan="4">评定标度</td>
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                <!-- <td></td> -->
+                </tr>
+                <tr>
+                <!-- <td></td> -->
+                <td align="center" id="dhbg" width=190px >0</td>
+                <td align="center" id="dhbg" width=190px >1</td>
+        <td align="center" id="dhbg" width=190px >2</td>
+        <td align="center" id="dhbg" width=190px >3</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >锈蚀</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积不大于10%</td>
+                <td align="left" id="dhbg" >发生锈蚀且氧化皮已开始剥落，面积大于10%</td>
+        <td align="left" id="dhbg" >氧化皮因锈蚀而剥落，有轻微点蚀</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >裂纹</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有裂纹</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >局部变形</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >明显局部变形</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >纵横梁衔接处开裂</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="center" id="dhbg" >-</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >有裂纹</td>
+            </tr>
+        <tr>
+                <td align="center" id="dhbg" >螺栓、铆钉缺损</td>
+                <td align="center" id="dhbg" >-</td>
+        <td align="left" id="dhbg" >表面轻度锈蚀</td>
+                <td align="left" id="dhbg" >松动、脱落数量不大于节点总量的10%</td>
+        <td align="left" id="dhbg" >松动、脱落数量大于节点总量的10%</td>
+            </tr>
+        </table>
+                <p style="text-indent:2em;" ><font size="2"> 注：面积和数量以杆件计；明显局部变形时需确认外力导致或结构受力导致，必要时专项检查确认，外力导致且不影响结构受力时不参与评定。</font></p>
+  <p style="text-indent:2em;" ><font size="2">  </font></p> 
+
+
+8.7 桥面板
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.7.1"> 8.7.1</a> <span id="id8.7.1"> 整体式钢筋混凝土实心板结构性缺损评定应按本标准<a href="06.html#id6.2.1">第6.2.1条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.2"> 8.7.2</a> <span id="id8.7.2"> 装配式钢筋混凝土实心板结构性缺损评定应按本标准<a href="06.html#id6.2.2">第6.2.2条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.3"> 8.7.3</a> <span id="id8.7.3"> 整体式钢筋混凝土空心板结构性缺损评定应按本标准<a href="06.html#id6.2.3">第6.2.3条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.4"> 8.7.4</a> <span id="id8.7.4"> 装配式钢筋混凝土空心板结构性缺损评定应按本标准<a href="06.html#id6.2.4">第6.2.4条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.5"> 8.7.5</a> <span id="id8.7.5"> 装配式预应力混凝土空心板结构性缺损评定应按本标准<a href="06.html#id6.2.5">第6.2.5条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.6"> 8.7.6</a> <span id="id8.7.6"> 钢筋混凝土肋梁结构性缺损评定应按本标准<a href="06.html#id6.2.6">第6.2.6条</a>执行。</span></p>
+
+ 
