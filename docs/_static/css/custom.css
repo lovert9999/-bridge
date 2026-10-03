@@ -69,9 +69,11 @@ footer p{
 }
 
 /* 条文说明段落：小一号字体
-   标记依据：条文说明段落的 style 属性均带分号（text-align:justify;），
-   正文条文为 text-align:justify（无分号），互不冲突 */
-p[style*="text-align:justify;"]{
+   标记依据：条文说明段落的 style 恰为 "text-align:justify;"（带分号、无缩进），
+   正文条文为 text-align:justify（无分号），
+   前言/用词用语说明的段落为 text-align:justify;text-indent:2em;（带首行缩进），
+   故需同时排除 text-indent，避免误伤前言 */
+p[style*="text-align:justify;"]:not([style*="text-indent"]){
     font-size: 0.7em;
 }
 
