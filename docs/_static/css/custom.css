@@ -89,5 +89,54 @@ p[style*="text-align:justify;"]:not([style*="text-indent"]){
     vertical-align: middle;
 }
 
+/* ===== 左侧导航菜单 收起/展开 ===== */
+/* 开关按钮：固定左上角，独立于导航栏，折叠后仍可见 */
+#wb-nav-toggle{
+    position: fixed;
+    top: 8px;
+    left: 8px;
+    z-index: 1100;
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    line-height: 32px;
+    text-align: center;
+    font-size: 15px;
+    color: #444;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0,0,0,.18);
+}
+#wb-nav-toggle:hover{
+    background: #f2f6f6;
+    border-color: #8aa;
+}
+/* 宽屏：导航可折叠，正文区随动；按钮不遮挡搜索框 */
+@media screen and (min-width: 768px){
+    .wy-nav-side{
+        transition: transform .25s ease;
+    }
+    .wy-nav-content-wrap{
+        transition: margin-left .25s ease;
+    }
+    .wy-side-nav-search{
+        padding-left: 56px;
+    }
+    body.wb-nav-hidden .wy-nav-side{
+        transform: translateX(-100%);
+    }
+    body.wb-nav-hidden .wy-nav-content-wrap{
+        margin-left: 0;
+    }
+}
+/* 窄屏：保留主题自带的顶部菜单按钮，隐藏本开关避免重复 */
+@media screen and (max-width: 767px){
+    #wb-nav-toggle{
+        display: none;
+    }
+}
+
 
 
